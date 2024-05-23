@@ -10,3 +10,9 @@ The target variable is called is_successful
 All of the columns except name and ein were considered features in this model.
 - What variable(s) should be removed from the input data because they are neither targets nor features? <br>
 The only data removed from the model was name and ein.
+### Compiling, Training, and Evaluating the Model
+First Model
+- How many neurons, layers, and activation functions did you select for your neural network model, and why? <br>
+![Image](Deep-Learning-Challenge/Images/Setup1.png)
+- Were you able to achieve the target model performance? <br>
+- What steps did you take in your attempts to increase model performance? <br>
