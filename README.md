@@ -40,3 +40,6 @@ For this model I added an extra hidden layer and changed the neurons on the firs
 No i achieved 72.77% not the desired 75%
 - What steps did you take in your attempts to increase model performance? <br>
 For this model I kept it the same as the second one but this time I added more neurons 
+
+## Summary
+Overall I had a 72.36%, 47.08% and a 72.77% none of which reached the desired goal of 75% accuracy. I believe that a different model that could have been used to acheive the goal would have been to not drop the name column and instead clump them together and then retrain the model and see if that can get you over the 75% accuracy goal.
